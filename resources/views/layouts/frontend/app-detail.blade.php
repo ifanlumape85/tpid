@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Badan Pengelolaan Keuangan dan Aset Daerah Kabupaten Bolaang Mongondow</title>
+    <title>TPID</title>
     <meta content="Website Resmi Badan Pengelolaan Keuangan dan Aset Daerah Kabupaten Bolaang Mongondow" name="description">
     <meta content="skpd, opd, bkd, lolak, bolaang mongondow, badan keuangan daerah" name="keywords">
 
