@@ -6,8 +6,8 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <title>TPID</title>
-    <meta content="Website Resmi Badan Pengelolaan Keuangan dan Aset Daerah Kabupaten Bolaang Mongondow" name="description">
-    <meta content="skpd, opd, bkd, lolak, bolaang mongondow, badan keuangan daerah" name="keywords">
+    <meta content="Website Resmi Tim Pengendalian Inflasi Daerah (TPID) Kabupaten Bolaang Mongondow" name="description">
+    <meta content="Pengendalian, inflasi, tpid" name="keywords">
 
     <link href="/template/frontend/assets/img/favicon.png" rel="icon">
     <link href="/template/frontend/assets/img/favicon.png" rel="apple-touch-icon">
